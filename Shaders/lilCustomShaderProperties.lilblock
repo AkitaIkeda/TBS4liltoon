@@ -1,0 +1,12 @@
+
+        //----------------------------------------------------------------------------------------------------------------------
+        // Custom Properties
+        //_CustomVariable ("Custom Variable", Float) = 0
+        
+        [NoScaleOffset] _BlendRatioTex ("[TBS] Blend Ratio Texture", 2D) = "Black" {}
+        _SubTex ("[TBS] Sub Texture", 2D) = "White" {}
+        [lilHDR] _SubColor ("[TBS] Sub Color", Color) = (1,1,1,1)
+        [lilHSVG]       _SubTexHSVG                ("[TBS] Sub Hue|Saturation|Value|Gamma", Vector) = (0,1,1,1)
+                        _SubGradationStrength      ("[TBS] Sub Gradation Strength", Range(0, 1)) = 0
+        [NoScaleOffset] _SubGradationTex           ("[TBS] Sub Gradation Map", 2D) = "white" {}
+        [NoScaleOffset] _SubColorAdjustMask        ("[TBS] Sub Adjust Mask", 2D) = "white" {}

@@ -1,0 +1,14 @@
+{
+    "name": "com.mueru.bts",
+    "version": "0.0.1",
+    "description": "Texture Blend Shader for VRChat",
+    "displayName": "TBS4liltoon",
+    "author": {
+        "name": "mueru",
+        "email": "mueru15@gmail.com",
+        "url": "https://github.com/mueru/"
+    },
+    "dependencies": {
+        "jp.lilxyzw.liltoon": "https://github.com/lilxyzw/lilToon.git?path=Assets/lilToon#master"
+    }
+}
