@@ -4,6 +4,8 @@ A custom Shader which provides the ability to blend the textures at runtime.
 
 ## Install
 
+[liltoon](https://github.com/lilxyzw/lilToon) is required.
+
 ### 1. Git
 
 [Import](https://docs.unity3d.com/Manual/upm-ui-giturl.html) `https://github.com/mueru/TBS4liltoon.git`.

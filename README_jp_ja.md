@@ -5,6 +5,8 @@
 
 ## インストール
 
+[liltoon](https://github.com/lilxyzw/lilToon)が必要です。
+
 ### 1. Git
 
 UnityPackageManagerから `https://github.com/mueru/TBS4liltoon.git` を[インポート](https://docs.unity3d.com/ja/2021.3/Manual/upm-ui-giturl.html)してください。

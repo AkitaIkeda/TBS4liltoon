@@ -7,8 +7,5 @@
         "name": "mueru",
         "email": "mueru15@gmail.com",
         "url": "https://github.com/mueru/"
-    },
-    "dependencies": {
-        "jp.lilxyzw.liltoon": "https://github.com/lilxyzw/lilToon.git?path=Assets/lilToon#master"
     }
 }
